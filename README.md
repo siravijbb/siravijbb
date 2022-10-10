@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @siravijbb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Space technology and Cloud Technology,Currently working at @KNACKSAT2-TGPS
+- 🌱 I’m currently learning at Thai-Germans Pre Engineering School speacial in Electrical.
+- 💞️ I’m looking to collaborate on Cloud System or Dev-Ops
+- 📫 Reach me via s6403102168120@email.kmutnb.ac.th or siravijbb@gmail.com 
 
-<!---
-siravijbb/siravijbb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
