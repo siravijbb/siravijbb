@@ -5,4 +5,5 @@
 - 📫 Reach me via s6403102168120@email.kmutnb.ac.th or siravijbb@gmail.com 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siravijbb&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siravijbb&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
