@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siravijbb
-- 👀 I’m interested in Space technology and Cloud Technology, Currently, I've been Payload Engineer at @KNACKSAT2-TGPS Project, FIRST Robot Competition team as Coding Engineer at @NB-GEARS, and KIBO 5'Th @KIBO-Astronut Thailand Representative Team. Currently working on @IOT4NHOR Seat Monitor System.
+- 👀 I’m interested in Space technology and Cloud Technology, Currently, I've been Payload Engineer at @KNACKSAT2-TGPS Project, FIRST Robot Competition team as Coding Engineer at @NB-GEARS , and KIBO 5'Th @KIBO-Astronut Thailand Representative Team. Currently working on @IOT4NHOR Seat Monitor System.
 
 - 🏫 Graduated from Thai-German Pre-Engineering School, KMUNB with Cert. in Tech. Ed.Electrical And Electronic
 - 🌱 I’m currently freshman🏸 at School of Information Technology, King Mongkut's University of Technology Thonburi
